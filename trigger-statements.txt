@@ -1,0 +1,11 @@
+Target profiles:
+
+- Users of multiple linters
+- Developers of static analysis tools
+- Researchers working on code analysis
+
+
+Users of multiple linters
+-------------------------
+
+Coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use.
