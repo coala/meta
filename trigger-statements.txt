@@ -8,4 +8,4 @@ Target profiles:
 Users of multiple linters
 -------------------------
 
-Coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use.
