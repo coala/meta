@@ -1,0 +1,84 @@
+INTRO
+
+        cOALA
+
+A long time ago
+in a galaxy far far away.
+
+It is a period of terrible code.
+Mixed indentations and bad standards
+are making code unmaintainable
+and have overpowered codebases in all starsystems.
+
+--------------------
+
+INTERVIEW/UDAYAN (morphed, sound from interview):
+
+When I first met Udayan, his coding style was bad.
+(UDAYAN BAD CODE)
+And when I say bad, I mean like, really bad.
+(END OF UDAYAN BAD CODE)
+Well, I guess at some point he couldn't stand it anymore.
+
+--------------------
+
+UDAYAN:
+
+(Laptop throwing scene) (Fuck you!)
+
+--------------------
+
+INTERVIEW:
+
+Yeah, he was really pissed.
+
+Little did he know,
+
+--------------------
+
+UDAYAN/INTERVIEW:
+
+(UDAYAN)
+(Throw coala cola can to him, he catches it)
+
+(INTERVIEW, parallel, sound only)
+but we were working on a tool,
+that would change his life forever.
+
+--------------------
+
+UDAYAN:
+
+(Close up on coala showing the patch)
+(Drinks from coala can)
+
+--------------------
+
+INTERVIEW:
+
+Equipped with coala, Udayan was able to take the war to the bugs.
+
+Cheers!
+
+--------------------
+
+UDAYAN:
+
+I don't where you are.
+I don't know why you're here.
+
+I can tell you, I don't have a lot of patience.
+But what I have is a particular set of tools.
+
+Tools I have acquired over a large number of commits.
+Tools that make me a nightmare for bugs like you.
+
+I will look for you,
+I will find you
+and I will fix you.
+
+--------------------
+
+TEXT:
+
+No coala's were hurt during the making of that movie.
