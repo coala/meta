@@ -5,7 +5,11 @@ Target profiles:
 - Researchers working on code analysis
 
 
-Users of multiple linters
--------------------------
+Tagline
+-------
+Linting and fixing code for all languages
 
+Trigger Sentence
+----------------
 coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+
