@@ -5,6 +5,8 @@ It supports way over 30 languages in addition to language independent
 routines. So, instead of building new analysis tools from scratch you can now
 build logic only and let coala deal with the user.
 
+DUMB!
+
 So, coala is 8 man years of effort going into usability.
 
 We want you to come to our sprint so we can help you analyze your project,
